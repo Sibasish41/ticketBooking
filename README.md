@@ -21,14 +21,15 @@ This project is a backend simulation of the IRCTC railway ticket booking system,
 
 ## 📂 Project Structure
 
+```text
 ticketBooking/
 ├── src/
-│ ├── Main.java
-│ ├── DBConnection.java
-│ ├── User.java
-│ ├── Train.java
-│ └── ... (other logic classes)
-└── README.md 
+│   ├── Main.java
+│   ├── DBConnection.java
+│   ├── User.java
+│   ├── Train.java
+│   └── ... (other logic classes)
+└── README.md
 
 ## 🗃️ Database Setup
 
