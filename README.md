@@ -28,7 +28,7 @@ ticketBooking/
 │ ├── User.java
 │ ├── Train.java
 │ └── ... (other logic classes)
-└── README.md
+└── README.md 
 
 ## 🗃️ Database Setup
 
